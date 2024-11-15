@@ -2,11 +2,11 @@
 
 We propose a flying pixel correction method using the aligned high resolution RGB data.
 
-<img src="figures/fps-exmaple.png" alt="" width="200">
+<img src="figures/fps-example.png" alt="" width="600">
 
 Flying Pixels are a common phenomenon that occurs within RGB+D data. 
 
-<img src="figures/gt_with_fps.png" alt="" width="200">
+<img src="figures/gt_with_fps.png" alt="" width="600">
 
 ## Download and Install
 
@@ -23,6 +23,9 @@ Clone both repositories from GitHub.
 ```
 git clone https://github.com/STAC-USC/Color_Guided_Flying_Pixel_Correction_in_Depth_Images.git
 
+```
+
+```
 git clone https://github.com/ekamresh/oyla_datasets.git
 ```
 
@@ -49,24 +52,24 @@ After running our correction algorithm on the data, you can visualize the correc
 
 There should be a visible difference in the number of flying pixels within the images.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
+  <div style="flex: 0 1 150px; text-align: center;">
     <img src="figures/chair_before.png" alt="Image 1" style="width: 100%; height: auto;" />
   </div>
-  <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
+  <div style="flex: 0 1 150px; text-align: center;">
     <img src="figures/office_before.png" alt="Image 2" style="width: 100%; height: auto;" />
   </div>
-  <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
+  <div style="flex: 0 1 150px; text-align: center;">
     <img src="figures/room_before.png" alt="Image 3" style="width: 100%; height: auto;" />
   </div>
-  <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
+  <div style="flex: 0 1 150px; text-align: center;">
     <img src="figures/chair_after.png" alt="Image 4" style="width: 100%; height: auto;" />
   </div>
-  <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
+  <div style="flex: 0 1 150px; text-align: center;">
     <img src="figures/room_after.png" alt="Image 5" style="width: 100%; height: auto;" />
   </div>
-  <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
+  <div style="flex: 0 1 150px; text-align: center;">
     <img src="figures/room_after.png" alt="Image 6" style="width: 100%; height: auto;" />
   </div>
 
