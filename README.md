@@ -10,7 +10,7 @@ Flying Pixels are a common phenomenon that occurs within RGB+D data.
 
 ## Download and Install
 
-For installation, Matlab R2023a or later is required. In addition to this, the following repository of Oyla data is required (https://github.com/ekamresh/oyla_datasets)
+For installation, Matlab R2023a or later is required. In addition to this, the following repository of Oyla data is required (https://github.com/ekamresh/oyla_datasets).
 
 ### Download this repository
 
@@ -42,9 +42,7 @@ main.m
 ```
 
 ## View results
-After running our correction algorithm on the data, you may visualize the corrected point clouds in Matlab or an equivalent software. 
-
-There should be a visible difference in the number of flying pixels within the images.
+After running our correction algorithm on the data, you may visualize the corrected point clouds in Matlab or an equivalent software. There should be a visible difference in the number of flying pixels within the images.
 
 | <img src="figures/chair_before.png" alt="Image 1" width="250"> | <img src="figures/office_before.png" alt="Image 2" width="250"> | <img src="figures/room_before.png" alt="Image 3" width="250"> |
 | --- | --- | --- |
