@@ -2,11 +2,11 @@
 
 We propose a flying pixel correction method using the aligned high resolution RGB data.
 
-<img src="figures/fps-exmaple.pdf" alt="" width="200">
+<img src="figures/fps-exmaple.png" alt="" width="200">
 
 Flying Pixels are a common phenomenon that occurs within RGB+D data. 
 
-<img src="figures/gt_with_fps.pdf" alt="" width="200">
+<img src="figures/gt_with_fps.png" alt="" width="200">
 
 ## Download and Install
 
@@ -52,22 +52,22 @@ There should be a visible difference in the number of flying pixels within the i
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
   <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
-    <img src="figures/chair_before.pdf" alt="Image 1" style="width: 100%; height: auto;" />
+    <img src="figures/chair_before.png" alt="Image 1" style="width: 100%; height: auto;" />
   </div>
   <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
-    <img src="figures/office_before.pdf" alt="Image 2" style="width: 100%; height: auto;" />
+    <img src="figures/office_before.png" alt="Image 2" style="width: 100%; height: auto;" />
   </div>
   <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
-    <img src="figures/room_before.pdf" alt="Image 3" style="width: 100%; height: auto;" />
+    <img src="figures/room_before.png" alt="Image 3" style="width: 100%; height: auto;" />
   </div>
   <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
-    <img src="figures/chair_after.pdf" alt="Image 4" style="width: 100%; height: auto;" />
+    <img src="figures/chair_after.png" alt="Image 4" style="width: 100%; height: auto;" />
   </div>
   <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
-    <img src="figures/room_after.pdf" alt="Image 5" style="width: 100%; height: auto;" />
+    <img src="figures/room_after.png" alt="Image 5" style="width: 100%; height: auto;" />
   </div>
   <div style="flex: 1 0 30%; max-width: 30%; text-align: center;">
-    <img src="figures/room_after.pdf" alt="Image 6" style="width: 100%; height: auto;" />
+    <img src="figures/room_after.png" alt="Image 6" style="width: 100%; height: auto;" />
   </div>
 
 </div>
