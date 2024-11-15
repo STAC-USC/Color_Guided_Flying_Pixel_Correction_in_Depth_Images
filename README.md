@@ -52,9 +52,10 @@ After running our correction algorithm on the data, you can visualize the correc
 
 There should be a visible difference in the number of flying pixels within the images.
 
-| ![Image 1](figures/chair_before.png){width=250} | ![Image 2](figures/office_before.png){width=250} | ![Image 3](figures/room_before.png){width=250} |
+| <img src="figures/chair_before.png" alt="Image 1" width="250"> | <img src="figures/office_before.png" alt="Image 2" width="250"> | <img src="figures/room_before.png" alt="Image 3" width="250"> |
 | --- | --- | --- |
-| ![Image 4](figures/chair_after.png){width=250} | ![Image 5](figures/office_after.png){width=250} | ![Image 6](figures/room_after.png){width=250} |
+| <img src="figures/chair_after.png" alt="Image 4" width="250"> | <img src="figures/office_after.png" alt="Image 5" width="250"> | <img src="figures/room_after.png" alt="Image 6" width="250"> |
+
 
 
 
