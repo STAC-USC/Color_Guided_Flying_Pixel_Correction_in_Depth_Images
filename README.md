@@ -22,7 +22,6 @@ cd ~/Downloads
 Clone both repositories from GitHub.
 ```
 git clone https://github.com/STAC-USC/Color_Guided_Flying_Pixel_Correction_in_Depth_Images.git
-
 ```
 
 ```
@@ -36,19 +35,14 @@ cd Color_Guided_Flying_Pixel_Correction_in_Depth_Images
 
 ## Run the algorithm
 
-Start matlab.
-```
-matlab &
-```
-
-After changing the relative paths to point to the Oyla dataset, run the file main.m. No other inputs are required. 
+Start matlab. After changing the relative paths to point to the Oyla dataset, run the file main.m. No other inputs are required. 
 
 ```
 main.m
 ```
 
 ## View results
-After running our correction algorithm on the data, you can visualize the corrected point clouds. 
+After running our correction algorithm on the data, you may visualize the corrected point clouds in Matlab or an equivalent software. 
 
 There should be a visible difference in the number of flying pixels within the images.
 
