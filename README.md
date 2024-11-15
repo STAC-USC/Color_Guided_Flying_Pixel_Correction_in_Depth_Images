@@ -55,22 +55,22 @@ There should be a visible difference in the number of flying pixels within the i
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <div style="flex: 0 1 150px; text-align: center;">
-    <img src="figures/chair_before.png" alt="Image 1" style="width: 100%; height: auto;" />
+    <img src="figures/chair_before.png" alt="Image 1" style="width: 200; height: auto;" />
   </div>
   <div style="flex: 0 1 150px; text-align: center;">
-    <img src="figures/office_before.png" alt="Image 2" style="width: 100%; height: auto;" />
+    <img src="figures/office_before.png" alt="Image 2" style="width: 200; height: auto;" />
   </div>
   <div style="flex: 0 1 150px; text-align: center;">
-    <img src="figures/room_before.png" alt="Image 3" style="width: 100%; height: auto;" />
+    <img src="figures/room_before.png" alt="Image 3" style="width: 200; height: auto;" />
   </div>
   <div style="flex: 0 1 150px; text-align: center;">
-    <img src="figures/chair_after.png" alt="Image 4" style="width: 100%; height: auto;" />
+    <img src="figures/chair_after.png" alt="Image 4" style="width: 200; height: auto;" />
   </div>
   <div style="flex: 0 1 150px; text-align: center;">
-    <img src="figures/room_after.png" alt="Image 5" style="width: 100%; height: auto;" />
+    <img src="figures/office_after.png" alt="Image 5" style="width: 200; height: auto;" />
   </div>
   <div style="flex: 0 1 150px; text-align: center;">
-    <img src="figures/room_after.png" alt="Image 6" style="width: 100%; height: auto;" />
+    <img src="figures/room_after.png" alt="Image 6" style="width: 200; height: auto;" />
   </div>
 
 </div>
