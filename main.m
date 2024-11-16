@@ -12,10 +12,10 @@ scene = 'Office\6m';
 
 depthDir = ['path\to\directory\' scene '\zmap_png\'];
 rgbDir = ['path\to\directory\' scene '\rgb_jpg\'];
-% nativeRgbDir = ['path\to\directory\' scene '\rgb_jpg_native'];
+nativeRgbDir = ['path\to\directory\' scene '\rgb_jpg_native'];
 
 % Use this path for Office Scene
-nativeRgbDir = ['path\to\directory\' scene '\rgb_jpg'];
+% nativeRgbDir = ['path\to\directory\' scene '\rgb_jpg'];
 
 disp(['RGB directory: ' rgbDir]);
 disp(['Depth directory: ' depthDir]);

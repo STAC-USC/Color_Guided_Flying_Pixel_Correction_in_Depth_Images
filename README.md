@@ -35,7 +35,15 @@ cd Color_Guided_Flying_Pixel_Correction_in_Depth_Images
 
 ## Run the algorithm
 
-Start matlab. After changing the relative paths to point to the Oyla dataset, run the file main.m. No other inputs are required. 
+Run Matlab. Locate the file main.m and change the relative paths to point to the Oyla dataset that was previosuly downloaded.
+
+```
+depthDir = ['path\to\directory\' scene '\zmap_png\'];
+rgbDir = ['path\to\directory\' scene '\rgb_jpg\'];
+nativeRgbDir = ['path\to\directory\' scene '\rgb_jpg_native'];
+```
+
+Run main.m to being the flying pixel correction.
 
 ```
 main.m
@@ -53,5 +61,5 @@ After running our correction algorithm on the data, you may visualize the correc
 
 # Support this work
 
-If you find the algorithm presented in this repository useful or have any technical feedback, feel free to contact the [corresponding author](evasudev@usc.edu). If you use this software towards your research, cite [this paper](https://arxiv.org/abs/2410.08084). Thank you!
+If you find the algorithm presented in this repository useful or have any technical feedback, feel free to contact the [corresponding author](https://arxiv.org/abs/2410.08084). If you use this software towards your research, cite [this paper](https://arxiv.org/abs/2410.08084). Thank you!
 
